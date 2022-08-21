@@ -1,1 +1,22 @@
-# SQL-Problem-Solving
+# SQL HackerRank Problems
+##### This repo for solutions of HackerRank SQL challenges
+## Problems
+- [Revising the Select Query I](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Revising%20the%20Select%20Query%20I.sql)
+- [Revising the Select Query II](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Revising%20the%20Select%20Query%20II.sql)
+- [Select All](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Select%20All.sql)
+- [Select By ID](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Select%20By%20ID.sql)
+- [Select All](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Select%20All.sql)
+- [Japanese Cities' Attributes](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Japanese%20Cities'%20Attributes.sql)
+- [Japanese Cities' Names](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Japanese%20Cities'%20Names.sql)
+- [Weather Observation Station 1](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%201.sql)
+- [Weather Observation Station 2](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%202.sql)
+- [Weather Observation Station 3](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%203.sql)
+- [Weather Observation Station 4](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%204.sql)
+- [Weather Observation Station 5](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%205.sql)
+- [Weather Observation Station 6](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%206.sql)
+- [Weather Observation Station 7](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%207.sql)
+- [Weather Observation Station 8](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%208.sql)
+- [Weather Observation Station 9](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%209.sql)
+- [Weather Observation Station 10](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%2010.sql)
+- [Weather Observation Station 11](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%2011.sql)
+- [Weather Observation Station 12](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%2012.sql)
