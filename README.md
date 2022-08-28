@@ -24,3 +24,4 @@
 - [Employee Names (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Employee%20Names.sql)
 - [Employee Salaries (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Employee%20Salaries.sql)
 - [Type of Triangle (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Type%20of%20Triangle.sql)
+- [Binary Tree Nodes (medium)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Binary%20Tree%20Nodes.sql)
