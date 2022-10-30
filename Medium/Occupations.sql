@@ -1,0 +1,12 @@
+-- MSSQL
+
+WITH TEMP AS
+(SELECT NAME, OCCUPATION, RANK() OVER (PARTITION BY OCCUPATION ORDER BY NAME) AS R
+FROM OCCUPATIONS)
+
+SELECT  Doctor, Professor, Singer , Actor 
+FROM TEMP
+PIVOT(MIN(NAME) FOR Occupation IN(Doctor, Professor, Singer , Actor )) AS PVT
+
+
+
