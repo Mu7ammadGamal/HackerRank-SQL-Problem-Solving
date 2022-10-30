@@ -1,27 +1,2 @@
 # SQL HackerRank Problems
-##### This repo for solutions of HackerRank SQL challenges
-## Problems
-- [Revising the Select Query I (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Revising%20the%20Select%20Query%20I.sql)
-- [Revising the Select Query II (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Revising%20the%20Select%20Query%20II.sql)
-- [Select All (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Select%20All.sql)
-- [Select By ID (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Select%20By%20ID.sql)
-- [Select All (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Select%20All.sql)
-- [Japanese Cities' Attributes (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Japanese%20Cities'%20Attributes.sql)
-- [Japanese Cities' Names (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Japanese%20Cities'%20Names.sql)
-- [Weather Observation Station 1 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%201.sql)
-- [Weather Observation Station 2 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%202.sql)
-- [Weather Observation Station 3 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%203.sql)
-- [Weather Observation Station 4 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%204.sql)
-- [Weather Observation Station 5 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%205.sql)
-- [Weather Observation Station 6 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%206.sql)
-- [Weather Observation Station 7 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%207.sql)
-- [Weather Observation Station 8 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%208.sql)
-- [Weather Observation Station 9 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%209.sql)
-- [Weather Observation Station 10 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%2010.sql)
-- [Weather Observation Station 11 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%2011.sql)
-- [Weather Observation Station 12 (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Weather%20Observation%20Station%2012.sql)
-- [Higher Than 75 Marks (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Higher%20Than%2075%20Marks.sql)
-- [Employee Names (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Employee%20Names.sql)
-- [Employee Salaries (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Employee%20Salaries.sql)
-- [Type of Triangle (easy)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Type%20of%20Triangle.sql)
-- [Binary Tree Nodes (medium)](https://github.com/Mu7ammadGamal/SQL-Problem-Solving/blob/master/Binary%20Tree%20Nodes.sql)
+##### This repo for solutions of HackerRank SQL preparation challenges
